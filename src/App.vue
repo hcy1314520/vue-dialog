@@ -1,5 +1,5 @@
 <template>
-  <h1>cooking-vue-start</h1>
+  <h1>vue-dialog</h1>
   <p>A vue project.</p>
   <dialog :title="dialog.title" :content="dialog.content" :btntype="dialog.btntype" :showstatus.sync="dialog.showstatus"></dialog>
   <a href="javascript:void(0)" @click="onShow">显示</a>
