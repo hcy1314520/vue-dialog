@@ -1,7 +1,9 @@
 #API接口
 
 title String
+
 content String
+
 btntype 1.alert类型 2.confirm类型
 
 ## 使用方法
