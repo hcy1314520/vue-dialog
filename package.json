@@ -1,0 +1,19 @@
+{
+  "name": "cooking-vue-start",
+  "version": "0.0.0",
+  "description": "A vue project.",
+  "private": true,
+  "keywords": [],
+  "scripts": {
+    "dev": "cooking watch",
+    "dist": "cooking build -p",
+    "deploy": "cooking build --no-color"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "vue": "*"
+  },
+  "devDependencies": {
+    "vue-dialog_xiaomingming": "^1.0.0"
+  }
+}
