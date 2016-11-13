@@ -13,7 +13,7 @@ npm run dev
 
 调用方法例子
 
-'<template>
+`<template>
   <h1>vue-dialog</h1>
   <p>A vue project.</p>
   <dialog :title="dialog.title" :content="dialog.content" :btntype="dialog.btntype" :showstatus.sync="dialog.showstatus"></dialog>
@@ -50,5 +50,5 @@ npm run dev
     	}
     }
   };
-</script>'
+</script>`
 
